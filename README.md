@@ -1,7 +1,3 @@
-Sure! Here's the translation of your Markdown in English:
-
----
-
 # 👋 Hi, welcome!
 
 ## 🙋 About Me
@@ -48,7 +44,7 @@ I love finding creative solutions and writing code that not only works but is al
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
-### 🌱 Currently Learning  
+## 🌱 Currently Learning  
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
