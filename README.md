@@ -26,11 +26,3 @@ I have experience with:
 
 ## 🌱 Currently Learning
 - <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="vertical-align:middle; width:40px;"> : Safe and efficient systems programming
-
-## 💡 Contact
-
-I look forward to hearing from you or receiving ideas for exciting projects.
-
----
-
-✨ Thanks for stopping by! Maybe we’ll start a joint project soon? 🚀
