@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thunder!
 
-**Fullstack developer with experience in both frontend and backend development, as well as managing my own server infrastructure.**
+**Fullstack developer with experience in both frontend and backend development,<br> as well as managing my own server infrastructure.**
 
 ## 🌟 Tech Stack
 
